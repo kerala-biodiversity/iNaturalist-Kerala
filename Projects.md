@@ -3,3 +3,10 @@
 * All Biodiversity - https://www.inaturalist.org/projects/kerala-biodiversity-monitoring-network
 * Taxa Tracker https://www.inaturalist.org/projects/kerala-biodiversity
 
+## Events
+* National Moth Week 2019 https://www.inaturalist.org/projects/national-moth-week-2019-kerala
+* Lockdown-Backyard-Bioblitz-Kerala https://www.inaturalist.org/projects/lockdown-backyard-bioblitz-kerala
+* Monsoon Challenge Kerala June 2020 https://www.inaturalist.org/projects/monsoon-challenge-kerala-june-2020 
+* National Moth Week 2020: Kerala https://www.inaturalist.org/projects/national-moth-week-2020-kerala
+* Onapookkal 2020 https://www.inaturalist.org/projects/onapookkal-2020
+* Big Butterfly Month 2020-Kerala https://www.inaturalist.org/projects/big-butterfly-month-2020-kerala
