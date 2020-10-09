@@ -12,7 +12,7 @@
 * Big Butterfly Month 2020-Kerala https://www.inaturalist.org/projects/big-butterfly-month-2020-kerala
 
 ## Taxa
-* Kerala Butterflies https://www.inaturalist.org/projects/kerala-butterflies
+* Butterfly Watch Kerala https:https://www.inaturalist.org/projects/butterfly-watch-kerala
 * Odonata Watch https://www.inaturalist.org/projects/odonata-watch
 * Moths of Kerala https://www.inaturalist.org/projects/moths-of-kerala
 
