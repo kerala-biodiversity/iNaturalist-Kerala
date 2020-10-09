@@ -15,5 +15,6 @@
 * Butterfly Watch Kerala https:https://www.inaturalist.org/projects/butterfly-watch-kerala
 * Odonata Watch https://www.inaturalist.org/projects/odonata-watch
 * Moths of Kerala https://www.inaturalist.org/projects/moths-of-kerala
+* Fish Monitoring Kerala https://www.inaturalist.org/projects/fish-monitoring-kerala
 
 ## District
