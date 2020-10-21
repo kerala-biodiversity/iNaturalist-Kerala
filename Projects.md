@@ -18,3 +18,21 @@
 * Fish Monitoring Kerala https://www.inaturalist.org/projects/fish-monitoring-kerala
 
 ## District
+Biodiversity of Kerala by Districts https://www.inaturalist.org/projects/biodiversity-of-kerala-by-districts
+
+1. Alappuzha  https://www.inaturalist.org/projects/biodiversity-of-alappuzha-kerala
+1. Ernakulam  https://www.inaturalist.org/projects/biodiversity-of-ernakulam-kerala
+1. Idukki  https://www.inaturalist.org/projects/biodiversity-of-idukki-kerala
+1. Kannur  https://www.inaturalist.org/projects/biodiversity-of-kannur-kerala
+1. Kasaragod  https://www.inaturalist.org/projects/biodiversity-of-kasaragod-kerala
+1. Kollam  https://www.inaturalist.org/projects/biodiversity-of-kollam-kerala
+1. Kottayam  https://www.inaturalist.org/projects/biodiversity-of-kottayam-kerala
+1. Kozhikode  https://www.inaturalist.org/projects/biodiversity-of-kozhikode-kerala
+1. Malappuram  https://www.inaturalist.org/projects/biodiversity-of-malappuram-kerala
+1. Palakkad  https://www.inaturalist.org/projects/biodiversity-of-palakkad-kerala
+1. Pathanamthitta  https://www.inaturalist.org/projects/biodiversity-of-pathanamthitta-kerala
+1. Thiruvananthapuram  https://www.inaturalist.org/projects/biodiversity-of-thiruvananthapuram-kerala
+1. Thrissur  https://www.inaturalist.org/projects/biodiversity-of-thrissur-kerala
+1. Wayanad  https://www.inaturalist.org/projects/biodiversity-of-wayanad-kerala
+
+
